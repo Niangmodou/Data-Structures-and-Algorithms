@@ -34,9 +34,6 @@ class Polynomial:
 				res += "x^" + str(i) + " + "
 		return res[:-2]
 
-	def __mul__(self):
-		pass
-
 	def derive(self):
 		for i in range(len(self.data)-1,-1,-1):
 			self.data[i] *= i
