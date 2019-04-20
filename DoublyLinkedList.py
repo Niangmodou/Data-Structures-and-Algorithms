@@ -35,3 +35,4 @@ def merge_linked_lists(srt_lst1,srt_lst2):
 		cursor1 = srt_lst1.first_node()
 		cursor2 = srt_lst2.first_node()
 		return merge_sublists(cursor1,cursor2,DoublyLinkedList())
+	#
