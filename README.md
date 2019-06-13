@@ -1,6 +1,6 @@
 Data-Structures-and-Algorithms
 
-Data Structures and Algorithms is a course i took at NYU Tandon School of 
+Data Structures and Algorithms is a course I took at NYU Tandon School of 
 Engineering. In this course we learned about common data structures and performed 
 algorithm analysis by analyzing runtimes of common data structures. This course 
 was taught in the Python programming language. We also wrote implementations 
